@@ -2,7 +2,6 @@
 
 ## Tech stack
 
-
     - Hyperledger Fabric blockchain (Node SDK JavaScript)
     - Node.js
     - Next.js
