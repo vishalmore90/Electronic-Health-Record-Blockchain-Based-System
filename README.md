@@ -27,6 +27,13 @@ $ ssh-add ~/ssh/github -->
     
     $ ./network.sh down     // to down network
 
+ ## to run network with ca and create mychannel 
+
+    $ cd fabric-samples/test-network
+    
+    Create network with ca cert: 
+    
+    $ ./network.sh up createChannel -ca -s couchdb
     
 
 
