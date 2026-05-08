@@ -34,6 +34,16 @@ $ ssh-add ~/ssh/github -->
     Create network with ca cert: 
     
     $ ./network.sh up createChannel -ca -s couchdb
+
+    ### Chain code deployment command
+
+ - Deploy chain code
+	    
+    $ ./network.sh deployCC -ccn ehrChainCode -ccp ../asset-transfer-basic/chaincode-javascript/ -ccl javascript
+
+    *Down Network - only if you want to stop network or close system
+	
+    $ ./network.sh down
     
 
 
