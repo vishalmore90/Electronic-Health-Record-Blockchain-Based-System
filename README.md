@@ -45,5 +45,9 @@ $ ssh-add ~/ssh/github -->
 	
     $ ./network.sh down
     
+### Register Admin
 
+    $ cd server-node-sdk/
+    $ node cert-script/registerOrg1Admin.js
+    $ node cert-script/registerOrg2Admin.js
 
