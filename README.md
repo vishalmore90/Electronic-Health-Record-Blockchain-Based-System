@@ -51,3 +51,11 @@ $ ssh-add ~/ssh/github -->
     $ node cert-script/registerOrg1Admin.js
     $ node cert-script/registerOrg2Admin.js
 
+### onboard script
+    
+    $ node cert-script/onboardHospital01.js 
+    $ node cert-script/onboardDoctor.js
+
+    $ node cert-script/onboardInsuranceCompany.js 
+    $ node cert-script/onboardInsuranceAgent.js
+
