@@ -60,3 +60,7 @@ $ ssh-add ~/ssh/github -->
     $ node cert-script/onboardInsuranceAgent.js
 
 *** you can use script to call chaincode and perform read and write opration on blockchain ledger. - optional *** 
+
+### start node server to use api
+
+    $ npm run dev
