@@ -64,3 +64,13 @@ $ ssh-add ~/ssh/github -->
 ### start node server to use api
 
     $ npm run dev
+
+### API List
+    
+    1. registerPatient - as Patient
+    2. loginPatient - as Patient
+    3. grantAccess - to doctor from Patient
+    4. addRecord - of Patient
+    5. getRecordById - of Patient 
+    6. getAllRecordByPatienId - filter record by patient
+    7. fetchLedger - fetch all transaction only admin can fetch.
