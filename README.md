@@ -74,3 +74,7 @@ $ ssh-add ~/ssh/github -->
     5. getRecordById - of Patient 
     6. getAllRecordByPatienId - filter record by patient
     7. fetchLedger - fetch all transaction only admin can fetch.
+
+## chaincode logic
+
+    - lets first understand the actors in our chaincode
