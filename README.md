@@ -77,12 +77,3 @@ $ ssh-add ~/ssh/github -->
 
 ## chaincode logic
  - lets first understand the actors in our chaincode
-
-    1. Goverment - network owner
-    2. Hospital - Network orgination 
-    3. Practicing physician / Doctor - member of hospital
-    4. Diagnostics center - org OR peer of hospital
-    5. Pharmacies - Org OR peer of hospital
-    6. Researchers / R&D - org
-    7. Insurance companies - org
-    8. Patient - end user
